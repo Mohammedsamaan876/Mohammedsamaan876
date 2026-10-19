@@ -1,6 +1,6 @@
 
 <!-- =====================================================
-     SAMAAN.DEV | GITHUB PROFILE
+     SAMAAN.DEV | CENTERED GITHUB PROFILE README
      Replace YOUR_GITHUB_USERNAME with your actual username.
 ====================================================== -->
 
@@ -15,13 +15,13 @@
 <br/><br/>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammed-samaan-jushiddi-072a042b9/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://samaanjushiddi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -32,33 +32,51 @@
 
 ---
 
+<div align="center">
+
 ## SAMAAN.DEV — Developer Console
 
-```text
-┌────────────────────────────────────────────────────┐
-│  ●  ●  ●                    SAMAAN.DEV             │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  $ whoami                                          │
-│  > Mohammed Samaan Jushiddi                        │
-│                                                    │
-│  $ role --current                                  │
-│  > Flutter Developer | Web Developer               │
-│                                                    │
-│  $ technologies --load                             │
-│  > Flutter, Dart, Firebase, JavaScript              │
-│  > TypeScript, Next.js, SQL, REST APIs               │
-│                                                    │
-│  $ mission                                         │
-│  > Build. Learn. Improve. Repeat.                   │
-│                                                    │
-│  $ status                                          │
-│  > Turning ideas into applications_                │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td>
+
+<pre>
+┌──────────────────────────────────────────────┐
+│  ●  ●  ●                 SAMAAN.DEV          │
+├──────────────────────────────────────────────┤
+│                                              │
+│  $ whoami                                    │
+│  > Mohammed Samaan Jushiddi                  │
+│                                              │
+│  $ role --current                            │
+│  > Flutter Developer | Web Developer         │
+│                                              │
+│  $ technologies --load                       │
+│  > Flutter, Dart, Firebase, JavaScript        │
+│  > TypeScript, Next.js, SQL, REST APIs        │
+│                                              │
+│  $ mission                                   │
+│  > Build. Learn. Improve. Repeat.             │
+│                                              │
+│  $ status                                    │
+│  > Turning ideas into applications_          │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 ## About Me
+
+</div>
 
 I'm **Mohammed Samaan Jushiddi**, a Computer Science and Engineering student passionate about building useful, reliable, and visually appealing software.
 
@@ -77,49 +95,41 @@ My primary focus is mobile application development with Flutter, alongside moder
 
 ---
 
-## Developer Journey
-
 <div align="center">
+
+## Developer Journey
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-**01**
-
-### Mobile
-
+<td align="center" width="200">
+<strong>01</strong>
+<br/><br/>
+<strong>Mobile</strong>
+<br/>
 Flutter & Dart
-
-Cross-platform applications
-
+<br/>
+Cross-platform apps
 </td>
-<td align="center" width="33%">
-
-**02**
-
-### Web
-
+<td align="center" width="200">
+<strong>02</strong>
+<br/><br/>
+<strong>Web</strong>
+<br/>
 JavaScript & TypeScript
-
+<br/>
 Modern web experiences
-
 </td>
-<td align="center" width="33%">
-
-**03**
-
-### Engineering
-
+<td align="center" width="200">
+<strong>03</strong>
+<br/><br/>
+<strong>Engineering</strong>
+<br/>
 Firebase & APIs
-
-Architecture and databases
-
+<br/>
+Architecture & databases
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -127,11 +137,11 @@ Architecture and databases
 
 ### Mobile Application Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Provider-59666C?style=flat-square" alt="Provider"/>
 <img src="https://img.shields.io/badge/Riverpod-087EA4?style=flat-square" alt="Riverpod"/>
 <img src="https://img.shields.io/badge/BLoC-3949AB?style=flat-square" alt="BLoC"/>
@@ -140,32 +150,32 @@ Architecture and databases
 
 ### Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind&theme=dark" alt="Web Development"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind&theme=dark" alt="Web Development Technologies"/>
 </p>
 
 ### Backend, APIs and Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,sqlite,postgres&theme=dark" alt="Backend and Databases"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,sqlite,postgres&theme=dark" alt="Backend and Database Technologies"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
+<img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
 <img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square" alt="SharedPreferences"/>
 <img src="https://img.shields.io/badge/Hive-FFC107?style=flat-square" alt="Hive"/>
 </p>
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,mysql&theme=dark" alt="Programming Languages"/>
 </p>
 
 ### Architecture and Development Practices
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Clean_Architecture-566B52?style=flat-square" alt="Clean Architecture"/>
 <img src="https://img.shields.io/badge/MVVM-6A5ACD?style=flat-square" alt="MVVM"/>
 <img src="https://img.shields.io/badge/State_Management-607D8B?style=flat-square" alt="State Management"/>
@@ -174,14 +184,14 @@ Architecture and databases
 
 ### Developer Tools and Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp&theme=dark" alt="Developer Tools"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp&theme=dark" alt="Developer Tools and Cloud"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
 <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub"/>
-<img src="https://img.shields.io/badge/AI_Integration-566B52?style=flat-square" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/AI_Integration-566650?style=flat-square" alt="AI Integration"/>
 </p>
 
 ---
@@ -190,7 +200,7 @@ Architecture and databases
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Flutter Portfolio
 
@@ -198,10 +208,10 @@ A developer portfolio showcasing my profile, technical skills, and software proj
 
 **Focus:** Flutter, Dart, UI/UX.
 
-[Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore Repositories</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Flutter AI Chat
 
@@ -209,12 +219,12 @@ A cross-platform chat application project exploring mobile interfaces and Fireba
 
 **Focus:** Flutter, Dart, Firebase.
 
-[Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore Repositories</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### Web Portfolio
 
@@ -222,10 +232,10 @@ A portfolio focused on responsive design, polished interactions, typography, and
 
 **Focus:** Next.js, TypeScript, CSS.
 
-[Visit my portfolio](https://samaanjushiddi.vercel.app/)
+<a href="https://samaanjushiddi.vercel.app/">Visit Portfolio</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### AI & Software Experiments
 
@@ -233,7 +243,7 @@ Exploring practical applications that combine software development, automation, 
 
 **Focus:** Experimentation and problem-solving.
 
-[Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore Repositories</a>
 
 </td>
 </tr>
@@ -243,11 +253,7 @@ Exploring practical applications that combine software development, automation, 
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&icon_color=9BAA91" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&langs_count=8" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&icon_color=9BAA91" alt="GitHub Statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&langs_count=8" alt="Most Used Languages"/>
 
 <br/><br/>
 
@@ -255,13 +261,15 @@ Exploring practical applications that combine software development, automation, 
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=9BAA91&line=8B9D83&point=F5F1E8&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=9BAA91&line=8B9D83&point=F5F1E8&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
 
 ---
 
 ## Currently Learning and Building
+
+<table>
+<tr>
+<td>
 
 - Building more polished Flutter applications.
 - Improving state management and application architecture.
@@ -270,24 +278,24 @@ Exploring practical applications that combine software development, automation, 
 - Exploring cloud deployment and AI-powered features.
 - Writing maintainable code and improving project documentation.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## My Development Workflow
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center">01<br/><b>Understand</b></td>
-<td align="center">02<br/><b>Plan</b></td>
-<td align="center">03<br/><b>Design</b></td>
-<td align="center">04<br/><b>Build</b></td>
-<td align="center">05<br/><b>Test</b></td>
-<td align="center">06<br/><b>Improve</b></td>
+<td align="center"><strong>01</strong><br/>Understand</td>
+<td align="center"><strong>02</strong><br/>Plan</td>
+<td align="center"><strong>03</strong><br/>Design</td>
+<td align="center"><strong>04</strong><br/>Build</td>
+<td align="center"><strong>05</strong><br/>Test</td>
+<td align="center"><strong>06</strong><br/>Improve</td>
 </tr>
 </table>
-
-</div>
 
 I believe good development balances functionality, usability, performance, and maintainability.
 
@@ -297,16 +305,12 @@ I believe good development balances functionality, usability, performance, and m
 
 I'm interested in connecting with developers, learning from the community, and collaborating on meaningful software projects.
 
-<div align="center">
-
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mohammed-samaan-jushiddi-072a042b9/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://samaanjushiddi.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
