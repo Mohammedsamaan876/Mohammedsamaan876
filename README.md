@@ -1,36 +1,17 @@
 
-<!-- =====================================================
-     SAMAAN.DEV | GITHUB PROFILE
-     Required assets:
-     assets/pixel-dev-banner.png
-     assets/developer-terminal.gif
-====================================================== -->
-
 <div align="center">
 
-<!-- PIXEL ART WORKSPACE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:202720,50:566650,100:9BAA91&text=SAMAAN.DEV&fontSize=52&fontColor=F5F1E8&fontAlignY=38&desc=FLUTTER%20%7C%20WEB%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descAlignY=60&animation=fadeIn" alt="Samaan Developer Banner"/>
 
-<img
-  src="./assets/pixel-dev-banner.png"
-  width="100%"
-  alt="Pixel Art Developer Workspace"
-/>
+<br/>
 
-<br/><br/>
-
-<!-- ANIMATED INTRO -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=9BAA91&center=true&vCenter=true&width=700&lines=Initializing+SAMAAN.DEV...;Flutter+%26+Web+Developer;Building+Cross-Platform+Applications;Firebase+%7C+APIs+%7C+Clean+Architecture;Turning+Ideas+Into+Applications."
-  alt="Animated Developer Introduction"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=9BAA91&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Flutter+%26+Web+Developer;Building+cross-platform+applications;Firebase+%7C+APIs+%7C+Clean+Architecture;Turning+ideas+into+applications." alt="Animated Developer Introduction"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mohammed-samaan-jushiddi-072a042b9/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://samaanjushiddi.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
@@ -43,22 +24,43 @@
 
 ## SAMAAN.DEV — Developer Console
 
-<!-- THE TERMINAL ANIMATION -->
-<img
-  src="./assets/developer-terminal.gif"
-  width="650"
-  alt="Animated Samaan Developer Terminal"
-/>
+<table>
+<tr>
+<td align="left">
+
+<pre>
+┌──────────────────────────────────────────────┐
+│  ●  ●  ●                 SAMAAN.DEV          │
+├──────────────────────────────────────────────┤
+│                                              │
+│  $ whoami                                    │
+│  > Mohammed Samaan Jushiddi                  │
+│                                              │
+│  $ role --current                            │
+│  > Flutter Developer | Web Developer         │
+│                                              │
+│  $ technologies --load                       │
+│  > Flutter, Dart, Firebase, JavaScript        │
+│  > TypeScript, Next.js, SQL, REST APIs        │
+│                                              │
+│  $ mission                                   │
+│  > Build. Learn. Improve. Repeat.             │
+│                                              │
+│  $ status                                    │
+│  > Turning ideas into applications_          │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## About Me
-
-</div>
 
 I'm **Mohammed Samaan Jushiddi**, a Computer Science and Engineering student passionate about building useful, reliable, and visually appealing software.
 
@@ -89,8 +91,6 @@ My primary focus is mobile application development with Flutter, alongside moder
 <strong>Mobile Development</strong>
 <br/>
 Flutter & Dart
-<br/>
-Cross-platform apps
 </td>
 <td align="center" width="33%">
 <strong>02</strong>
@@ -98,8 +98,6 @@ Cross-platform apps
 <strong>Web Development</strong>
 <br/>
 JavaScript & TypeScript
-<br/>
-Modern web experiences
 </td>
 <td align="center" width="33%">
 <strong>03</strong>
@@ -107,8 +105,6 @@ Modern web experiences
 <strong>Software Engineering</strong>
 <br/>
 Firebase & APIs
-<br/>
-Architecture & databases
 </td>
 </tr>
 </table>
@@ -124,10 +120,10 @@ Architecture & databases
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Provider-59666C?style=flat-square" alt="Provider"/>
-<img src="https://img.shields.io/badge/Riverpod-087EA4?style=flat-square" alt="Riverpod"/>
-<img src="https://img.shields.io/badge/BLoC-3949AB?style=flat-square" alt="BLoC"/>
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" alt="GetX"/>
+<img src="https://img.shields.io/badge/Provider-59666C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Riverpod-087EA4?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLoC-3949AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square"/>
 </p>
 
 ### Web Development
@@ -143,10 +139,10 @@ Architecture & databases
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
-<img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square" alt="SharedPreferences"/>
-<img src="https://img.shields.io/badge/Hive-FFC107?style=flat-square" alt="Hive"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hive-FFC107?style=flat-square"/>
 </p>
 
 ### Programming Languages
@@ -158,22 +154,22 @@ Architecture & databases
 ### Architecture and Development Practices
 
 <p align="center">
-<img src="https://img.shields.io/badge/Clean_Architecture-566650?style=flat-square" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/MVVM-6A5ACD?style=flat-square" alt="MVVM"/>
-<img src="https://img.shields.io/badge/State_Management-607D8B?style=flat-square" alt="State Management"/>
-<img src="https://img.shields.io/badge/Responsive_Design-8B9D83?style=flat-square" alt="Responsive Design"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-566650?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVVM-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/State_Management-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive_Design-8B9D83?style=flat-square"/>
 </p>
 
 ### Developer Tools and Cloud
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp&theme=dark" alt="Developer Tools and Cloud"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp&theme=dark" alt="Developer Tools"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
-<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub"/>
-<img src="https://img.shields.io/badge/AI_Integration-566650?style=flat-square" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Integration-566650?style=flat-square"/>
 </p>
 
 ---
@@ -186,18 +182,18 @@ Architecture & databases
 
 ### Flutter Portfolio
 
-A developer portfolio showcasing my profile, technical skills, and software projects.
+A developer portfolio showcasing my profile, skills, and software projects.
 
 **Focus:** Flutter, Dart, UI/UX.
 
-<a href="https://samaanjushiddi.vercel.app/">Visit Portfolio</a>
+<a href="https://samaanjushiddi.vercel.app/">View Portfolio</a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 ### Flutter AI Chat
 
-A chat application project exploring Flutter interfaces and Firebase integration.
+A chat application project exploring mobile interfaces and Firebase integration.
 
 **Focus:** Flutter, Dart, Firebase.
 
@@ -237,27 +233,19 @@ Exploring practical software solutions, automation, and AI-powered features.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&icon_color=9BAA91" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&langs_count=8" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=9BAA91&fire=9BAA91&currStreakLabel=9BAA91&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=9BAA91&line=8B9D83&point=F5F1E8&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+<p>
+<a href="https://github.com/">
+<img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9BAA91&text_color=E6EDF3&icon_color=9BAA91" alt="Example GitHub Stats"/>
+</a>
+</p>
 
 </div>
+
+*Replace the example analytics image above with your actual GitHub username when you have it. No placeholder counter or incorrect username is displayed.*
 
 ---
 
-<div align="center">
-
 ## Currently Learning and Building
-
-</div>
 
 - Developing more polished Flutter applications.
 - Improving state management and application architecture.
@@ -267,8 +255,6 @@ Exploring practical software solutions, automation, and AI-powered features.
 - Improving code quality, testing, and documentation.
 
 ---
-
-<div align="center">
 
 ## My Development Workflow
 
@@ -289,9 +275,7 @@ I believe good development balances functionality, usability, performance, and m
 
 ## Let's Connect
 
-I'm interested in connecting with developers, learning from the community, and collaborating on meaningful software projects.
-
-<br/>
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-samaan-jushiddi-072a042b9/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
