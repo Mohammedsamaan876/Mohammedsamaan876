@@ -1,117 +1,172 @@
 
-<!-- =========================================================
-     MOHAMMED SAMAAN JUSHIDDI | GITHUB PROFILE README
-     Replace YOUR_USERNAME and the social links below.
-========================================================= -->
+<!--
+  GITHUB PROFILE README
+  Replace YOUR_USERNAME, YOUR_LINKEDIN_URL, and YOUR_PORTFOLIO_URL.
+-->
 
 <div align="center">
 
-# 👋 Hey, I'm Samaan!
+<!-- ANIMATED DEVELOPER INTRO -->
 
-### Flutter Developer • Mobile App Architect • Web Developer • AI Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:343B35,50:626F5D,100:9BAA91&text=SAMAAN.DEV&fontSize=48&fontColor=F5F1E8&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Innovate&descSize=17&descAlignY=60&animation=fadeIn" alt="Samaan Developer Banner"/>
 
-Building digital experiences that combine **clean code, thoughtful design, and practical problem-solving.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=8B9D83&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Loading+Flutter+and+Web+Development...;Connecting+to+the+world+of+code...;Welcome+to+Samaan's+GitHub!" alt="Animated Developer Intro"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B9D83&center=true&vCenter=true&width=650&lines=Flutter+%26+Cross-Platform+Development;Web+Development+%26+APIs;Firebase+%26+Database+Systems;Exploring+AI-Powered+Applications" alt="Typing SVG" />
+<br/>
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<!-- TERMINAL INTERFACE -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8B9D83&label=PROFILE+VIEWS)
+<table>
+<tr>
+<td>
+
+```bash
+┌──────────────────────────────────────────────┐
+│ ● ● ●                 SAMAAN.DEV             │
+├──────────────────────────────────────────────┤
+│                                              │
+│ $ whoami                                     │
+│ > Mohammed Samaan Jushiddi                   │
+│                                              │
+│ $ role --current                             │
+│ > Flutter & Web Developer                    │
+│                                              │
+│ $ stack --load                               │
+│ > Dart, Flutter, Firebase                    │
+│ > JavaScript, TypeScript, Next.js            │
+│ > SQL, REST APIs, Git                        │
+│                                              │
+│ $ mission                                    │
+│ > Turning ideas into applications_           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-8B9D83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8B9D83&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Computer Science & Engineering student passionate about building reliable mobile applications, modern web experiences, and AI-powered solutions.
+Hey! I'm **Mohammed Samaan Jushiddi**, a Computer Science and Engineering student passionate about building useful, reliable, and visually appealing software.
 
-- 📱 Focused on **Flutter & cross-platform mobile development**
-- 🌐 Exploring **modern web development and full-stack fundamentals**
-- 🔥 Working with **Firebase, Firestore, authentication, and APIs**
-- 🏗️ Interested in **Clean Architecture, MVVM, and scalable application design**
-- 🤖 Exploring the intersection of **AI and software development**
-- 🛠️ Practicing problem-solving, debugging, and building real-world projects
-- 🚀 Always learning, experimenting, and improving through code
+I'm focused on mobile application development with Flutter while exploring modern web technologies, backend fundamentals, cloud services, and AI-powered applications.
 
-> My goal is simple: build software that is useful, maintainable, and enjoyable to use.
+- 📱 Building cross-platform applications with **Flutter and Dart**
+- 🌐 Exploring responsive websites and modern web applications
+- 🔥 Working with Firebase, Firestore, and authentication
+- 🔗 Integrating REST APIs and working with databases
+- 🏗️ Learning Clean Architecture, MVVM, and state management
+- 🤖 Exploring AI-powered products and practical automation
+- 🧠 Improving problem-solving, debugging, and software design
+- 🚀 Turning ideas into projects and learning through implementation
+
+> "Great software isn't just written. It's designed, tested, refined, and built to solve real problems."
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧑‍💻 My Developer Journey
+
+<div align="center">
+
+| Area | Technologies & Focus |
+|:---|:---|
+| Mobile Development | Flutter, Dart, cross-platform UI |
+| Web Development | HTML, CSS, JavaScript, TypeScript, Next.js |
+| Backend & APIs | REST APIs, Node.js fundamentals |
+| Cloud & Database | Firebase, Firestore, MySQL, SQLite |
+| Architecture | Clean Architecture, MVVM |
+| State Management | Provider, Riverpod, BLoC, GetX |
+| Developer Tools | Git, GitHub, VS Code, Postman |
+| Exploring | AI integration, cloud deployment, scalable apps |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 ### 📱 Mobile App Development
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart"/>
+</p>
+
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-59666C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Riverpod-00A8E8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-3949AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Provider-59666C?style=flat-square" alt="Provider"/>
+<img src="https://img.shields.io/badge/Riverpod-087EA4?style=flat-square" alt="Riverpod"/>
+<img src="https://img.shields.io/badge/BLoC-3949AB?style=flat-square" alt="BLoC"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square" alt="GetX"/>
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind&theme=light" alt="Web Development Technologies"/>
 </p>
 
 ### ⚙️ Backend, APIs & Databases
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,sqlite,postgres&theme=light" alt="Backend and Database Technologies"/>
+</p>
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
+<img src="https://img.shields.io/badge/SharedPreferences-607D8B?style=flat-square" alt="Shared Preferences"/>
+<img src="https://img.shields.io/badge/Hive-FFC107?style=flat-square" alt="Hive"/>
 </p>
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dart,js,ts,python,java,sql&theme=light" alt="Programming Languages"/>
 </p>
 
-### 🏗️ Architecture & Development Practices
+### 🧱 Architecture & Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVVM-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsive_UI-8B9D83?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Authentication-FF7043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database_Design-607D8B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-566B52?style=flat-square" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/MVVM-6A5ACD?style=flat-square" alt="MVVM"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-8B9D83?style=flat-square" alt="Responsive Design"/>
+<img src="https://img.shields.io/badge/Authentication-FF7043?style=flat-square" alt="Authentication"/>
+<img src="https://img.shields.io/badge/Database%20Design-607D8B?style=flat-square" alt="Database Design"/>
 </p>
 
-### 🛠️ Developer Tools
+### 🧰 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=light" alt="Developer Tools"/>
+</p>
+
+### ☁️ Cloud & AI Exploration
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run"/>
+<img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub"/>
+<img src="https://img.shields.io/badge/AI%20Integration-566B52?style=flat-square" alt="AI Integration"/>
 </p>
 
 ---
@@ -120,56 +175,56 @@ I'm a Computer Science & Engineering student passionate about building reliable 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Flutter Portfolio
 
-A personal developer portfolio showcasing my technical skills, projects, and journey as a developer.
+My developer portfolio, highlighting my profile, technical skills, and development projects.
 
-**Focus:** Flutter, Dart, UI/UX
+**Tech:** Flutter, Dart
 
-[View Repository →](https://github.com/YOUR_USERNAME/flutter-portfolio)
+[View Repository](https://github.com/YOUR_USERNAME/flutter-portfolio)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI-Powered Learning Platform
+### 💬 Flutter AI Chat
 
-**ByteMe** — an educational platform concept designed to adapt learning content to students' abilities and activity.
+A cross-platform chat application project exploring Flutter UI, Firebase configuration, and authentication integration.
 
-**Focus:** AI, Web Development, Personalized Learning
+**Tech:** Flutter, Dart, Firebase
 
-[Explore My GitHub →](https://github.com/YOUR_USERNAME)
+[View Repository](https://github.com/YOUR_USERNAME/flutter_ai_chat)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 Flutter AI Chat
+### 🌐 Web Portfolio
 
-A cross-platform chat application project exploring mobile interfaces and Firebase integration.
+A personal portfolio concept focused on responsive layouts, typography, polished interactions, and modern web design.
 
-**Focus:** Flutter, Dart, Firebase
+**Tech:** Next.js, TypeScript, CSS
 
-[View Repository →](https://github.com/YOUR_USERNAME/flutter_ai_chat)
+[Explore Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Personal Web Portfolio
+### 🤖 AI & Software Projects
 
-A responsive portfolio concept showcasing my profile, development skills, and selected projects.
+Exploring useful applications that combine software engineering, automation, and AI-powered features.
 
-**Focus:** Next.js, TypeScript, CSS
+**Focus:** Practical problem-solving and experimentation
 
-[Explore My GitHub →](https://github.com/YOUR_USERNAME)
+[Explore Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-> Replace these project links and descriptions with your actual public repositories. Only feature projects that you can demonstrate and explain.
+> Replace example project descriptions with the actual features, technologies, screenshots, and deployment links for your projects. Remove any project that is not yours.
 
 ---
 
@@ -177,46 +232,73 @@ A responsive portfolio concept showcasing my profile, development skills, and se
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub Statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=8B9D83&line=8B9D83&point=626F5D&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Currently Learning & Building
 
-- Building production-ready Flutter applications
-- Improving web development and TypeScript skills
-- Firebase authentication, Firestore, and API integration
-- State management and clean application architecture
-- AI-powered features and practical software solutions
-- Better UI/UX, performance, and maintainable code
+- [ ] Developing more polished Flutter applications
+- [ ] Improving state management and application architecture
+- [ ] Building responsive web experiences with TypeScript and Next.js
+- [ ] Practicing API integration, authentication, and database operations
+- [ ] Exploring cloud deployment and AI-powered application features
+- [ ] Writing cleaner, reusable, and maintainable code
+- [ ] Improving project documentation and testing practices
+
+---
+
+## 🧩 How I Approach Development
+
+```text
+01. Understand the problem
+02. Plan the architecture
+03. Design the user experience
+04. Build and integrate
+05. Test, debug, and refine
+06. Document and improve
+```
+
+I believe that good development balances functionality, usability, performance, and maintainability.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on meaningful projects, and learning from the developer community.
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+I'm open to learning opportunities, meaningful collaborations, and projects that help me grow as a developer.
 
 <div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-566B52?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B9D83&center=true&vCenter=true&width=500&lines=Keep+learning.;Keep+building.;Make+every+commit+count." alt="Developer Sign-off"/>
 
 ### 💡 Code. Learn. Build. Repeat.
 
 *Turning ideas into applications, one commit at a time.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9BAA91,50:626F5D,100:343B35&height=100&section=footer" alt="Footer Banner"/>
 
 </div>
